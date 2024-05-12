@@ -8,6 +8,7 @@
 3.Demonstrated proficiency in data analysis, visualization, and dashboard development to drive informed decision-making.
 
 Project Takeaways:
+
 • Crafted a cool dashboard to explore and understand online sales info easily
 
 • Got into the nitty-gritty, digging deep into data with fancy tools like filters and slicers
